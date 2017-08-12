@@ -368,7 +368,6 @@ if ( isset($_POST['datum']) <> "" )
         $miurrenta = file_get_contents($file17);
         $phrase2 = "$lastDoCG\t$lastG\t$lastGs";
         $miurrentb = str_replace (  "$phrase2",  "" , $miurrenta );
-        //var_dump($miurrentb);
         $miurrentc = file_put_contents($file17, $miurrentb);
 
 

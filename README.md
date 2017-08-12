@@ -16,4 +16,4 @@ Alle Dateien auf einen Server hochladen.
 
 
 
-
+![Eingabefeld](https://raw.githubusercontent.com/sowoi/babystilltagebuch/master/screenshot.PNG)

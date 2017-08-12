@@ -16,4 +16,4 @@ Alle Dateien auf einen Server hochladen.
 
 
 
-![Eingabefeld](babystilltagebuch/screenshot.PNG)
+![Eingabefeld](https://github.com/sowoi/babystilltagebuch/blob/master/screenshot.PNG)

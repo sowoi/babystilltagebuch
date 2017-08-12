@@ -15,6 +15,10 @@ Gespeichert werden die Daten in Json Format.
 # Installation
 Alle Dateien auf einen Server hochladen. 
 
+# Credit
+D3 by  Mike Bostock
+https://limonte.github.io/sweetalert2/
+
 
 
 ![Eingabefeld](https://github.com/sowoi/babystilltagebuch/blob/master/screenshot.PNG)

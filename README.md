@@ -10,6 +10,7 @@ Gespeichert werden die Daten in Json Format.
 - Visualisierung
 - Honeypotschutz gegen automatisierte Boteinträge
 - automatisierte Vergleichswerte (gestern/heute, Vormonat/aktueller Monat, etc)
+- SweetAlert Fehlermeldungen
 
 # Installation
 Alle Dateien auf einen Server hochladen. 

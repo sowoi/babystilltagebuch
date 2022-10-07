@@ -1,3 +1,7 @@
+# Dies wurde im Rahmen eines Studienprojeks erstellt.
+# Das Projekt wird nicht weiterentwickelt!
+
+
 # babystilltagebuch
 Tagebuch zum Stillen mit Visualisierung (D3)
 Als Datenbank wird eine einfache txt-Datei benutzt.
